@@ -13,7 +13,7 @@ public class Takatak {
         }
     }
 
-    private void kiiras(szoveg) {
+    private static void kiiras(String szoveg) {
         System.out.println(szoveg);
     }
     
